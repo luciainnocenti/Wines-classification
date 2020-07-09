@@ -1,2 +1,2 @@
 # Homework1-Wines
-Solve machine learning problems with standard repo
+The aim of this project is to apply different classification methods to the dataset ”Wine” availablein SK-Learn base datasets.
